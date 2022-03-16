@@ -1,0 +1,11 @@
+WARNING:root:this is my warning log
+ERROR:root:this is my error log 
+WARNING:root:this is my warning log warning
+ERROR:root:this is my warning log error 
+WARNING:root:this is my warning log warning
+ERROR:root:this is my warning log error 
+WARNING:root:this is my warning log
+ERROR:root:this is my error log 
+WARNING:root:this is my warning log warning
+ERROR:root:this is my warning log error 
+ERROR:root:this is my warning log error 
